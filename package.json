@@ -1,0 +1,22 @@
+{
+  "name": "pdfjs-example-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishkaul/pdfjs-example-test.git"
+  },
+  "author": "Ashish Kaul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashishkaul/pdfjs-example-test/issues"
+  },
+  "homepage": "https://github.com/ashishkaul/pdfjs-example-test#readme",
+  "dependencies": {
+    "pdfjs-dist": "^2.13.216"
+  }
+}
